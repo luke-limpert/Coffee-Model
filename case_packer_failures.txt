@@ -1,0 +1,1 @@
+System	Competing Time	Up	1	1	Weibull	77.41995239	0.7	1	Weibull	2	1	0

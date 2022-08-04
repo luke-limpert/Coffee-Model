@@ -1,0 +1,17 @@
+{
+    "System":{
+        "Cause Name":"System",
+        "Distrib (SDT)":"Weibull",
+        "Distrib (UT)":"Weibull",
+        "Failure Type":"Competing Time",
+        "Initialize":"Up",
+        "Param1 (SDT)":2,
+        "Param1 (UT)":77.41995239,
+        "Param2 (SDT)":1,
+        "Param2 (UT)":0.7,
+        "Prob (LDT)":0,
+        "Prob Restart":1,
+        "Prob Stop":1,
+        "Product Usage":1
+    }
+}
